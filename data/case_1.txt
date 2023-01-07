@@ -1,0 +1,1094 @@
+1. Should charities, whose principal purposes are environmental protection and
+improvement and the relief of poverty, be able to adopt an investment policy that
+excludes many potential investments because the trustees consider that they conflict
+with their charitable purposes? One might be forgiven for thinking that the answer
+should obviously be that such a policy would be entirely appropriate. But because of
+uncertainty over the reach of the only leading case in this area – Harries v Church
+Commissioners for England [1992] 1 WLR 1241, a decision of Sir Donald Nicholls
+V-C, as he then was, (commonly referred to as the Bishop of Oxford case) – and the
+fact that this is a very important decision for them, the Claimants, who are the trustees
+of two such charities, seek the Court’s blessing for the adoption of their new
+investment policies.
+2. The two charities are the Ashden Trust and the Mark Leonard Trust. Both are part of
+the Sainsbury Family Charitable Trusts network. They have approximately £42m and
+£22m respectively by way of assets. The First Claimant, Ms Sarah Butler-Sloss, is the
+settlor and a trustee of the Ashden Trust; her brother, the Fifth Claimant, Mr Mark
+Sainsbury, is the settlor and a trustee of the Mark Leonard Trust. Both charities work
+closely together, having similar purposes and sharing staff and the same investment
+manager, Cazenove Capital Management (Cazenove).
+3. The application is brought principally under what is known as Category 2 within the
+four categories described in Public Trustee v Cooper [2001] WTLR 901 (Public
+Trustee v Cooper). The Claimants, who are all the trustees of the two charities, seek
+the court’s approval for the adoption of their proposed new investment policies to
+ensure that they are acting lawfully in such respect. They also seek a series of
+declarations as to the proper approach to be taken in relation to such issues generally
+by charity trustees. I will deal with whether that is appropriate relief to be seeking
+from the Court later in this judgment. On 14 April 2021, I gave permission to the
+Claimants to bring these proceedings pursuant to s.115(5) of the Charities Act 2011
+because I considered that the Charity Commission had refused permission.
+4. The Defendants are the Charity Commission for England and Wales and the Attorney
+General, each of whom are separately represented. Both invite the Court to deliver a
+judgment that sets out the correct approach in law for charity trustees to follow in
+considering adopting an ethical or responsible investment policy but say that it is
+premature for the Court to approve these investment policies based on the available
+evidence. Everyone recognises that there needs to be clarification as to the effect of
+the Bishop of Oxford case, and I will endeavour to provide that, but it is important not
+to lose sight of the fact that this is a specific application by these charities in relation
+to their proposed new investment policies and I will be determining the issues before
+me in that context.
+5. I have been greatly assisted by the written and oral submissions by Counsel and their
+legal teams. Mr Edward Cumming QC with Mr Maxim Cardew appeared on behalf of
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+the Claimants; Mr Ben Jaffey QC appeared on behalf of the Charity Commission; and
+Mr William Henderson appeared on behalf of the Attorney General.
+CONTEXT
+6. The method that the Claimants have chosen for identifying the investments that the
+charities should invest in is whether they are aligned with the Paris Climate
+Agreement which was signed on 22 April 2016 under the United Nations Framework
+Convention on Climate Change (the Paris Agreement). There are 195 countries that
+are parties to the Paris Agreement, with 189 of them having ratified it. The principal
+goal of the Paris Agreement is to limit global warming to well below 2°C above preindustrial levels, and pursuing efforts to limit it further to 1.5°C. It aims to do this by
+reducing greenhouse gas emissions and fostering climate resilience and sustainable
+development. Paragraph 1(c) of Article 2 to the Paris Agreement is particularly
+pertinent as it states:
+“(c) Making finance flows consistent with a pathway towards low greenhouse
+gas emissions and climate resilient development”.
+7. The signatories to the Paris Agreement asked the Intergovernmental Panel on Climate
+Change (IPCC) to produce a special report as to the difference in effect of 2°C
+warming to 1.5°C warming. The IPCC published its report in October 2018. In
+relation to investments, the IPCC said that: “Realizing the transformations towards a
+1.5°C world would require a major shift in investment patterns… pursuing 1.5°C
+mitigation efforts requires a major reallocation of the investment portfolio, implying a
+financial system aligned to mitigation challenges” (para 2.5.2.2).
+8. The challenges of tackling irreversible climate change are obvious and have been
+recognised by the UK Committee on Climate Change and Parliament which approved
+a motion on 1 May 2019 declaring an environmental and climate emergency.
+9. After the hearing had finished Mr Jaffey QC brought to my attention a decision of the
+Administrative Court handed down on 15 March 2022 in R (Friends of the Earth) v.
+Secretary of State for International Trade/Export Credits Guarantee Department (UK
+Export Finance) and ors [2022] EWHC 568. In his judgment, Stuart-Smith LJ
+helpfully set out the framework of the Paris Agreement and its adoption and legal
+effect in domestic law (see [15] to [38]) and the meaning and extent of the obligation
+on the UK Government to comply with Article 2(1)(c) of the Paris Agreement (see
+[225] to [240]). It should be noted however that Thornton J disagreed with StuartSmith LJ, particularly over the assessment of Scope 3 emissions (see below) and
+therefore whether the UK Government had acted consistently with its Article 2(1)(c)
+obligations.
+10. Whatever the UK Government’s obligations under the Paris Agreement (and indeed
+all the other signatories’ obligations), it is clear that private persons and charities are
+not bound as such to it. But the Claimants have decided that the goals of the Paris
+Agreement should be the appropriate basis for assessing whether their investments are
+consistent with their charitable purposes.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+11. In the exercise of their power to invest, the Claimants want to ensure that the
+investments they make are not in conflict with the charities’ purposes and to be able
+to pursue such a policy even if the financial returns may not be maximised as a result.
+As they see it, they wish to exclude investments, so far as practically possible, that are
+not aligned with the Paris Agreement. By that they mean that the total investment
+portfolio should ensure that its greenhouse gas emissions will overall be limited so as
+to comply with the target of 1.5°C. Various guidelines for assessing whether
+individual investments are acceptable or have to be excluded are set out in their
+proposed investment policies.
+THE CHARITIES
+12. Both charities were established by trust deeds: the Ashden Trust Deed is dated 27
+November 1989; and the Mark Leonard Trust Deed is dated 14 July 1994. The Trust
+Deeds both provided for general charitable purposes.
+13. The trustees of the Ashden Trust have determined principally to pursue the statutory
+charitable purposes of: environmental protection or improvement; the prevention or
+relief of poverty; and the relief of those in need, by reason of youth, age, ill-health,
+disability, financial hardship or other disadvantage. It pursues its charitable purposes
+principally through grant-making in four categories: the Climate Change
+Collaboration (an umbrella term for joint grant making by three Sainsburys trusts);
+Sustainable Farming; Avoiding Deforestation; and Connecting People with Nature.
+During the 2019/2020 financial year, the Ashden Trust approved nearly £1.8m of
+grants.
+14. The trustees of the Mark Leonard Trust have determined principally to pursue the
+charitable purposes of: environmental protection or improvement; and the relief of
+those in need. Like the Ashden Trust, it does this primarily through grant-making.
+During the 2018/2019 financial year, the trustees approved grants totalling just under
+£1.5m.
+15. The Trust Deeds contain express powers of investment in addition to the statutory
+power of investment in s.3 of the Trustee Act 2000 (dealt with below). Clause 3 of the
+Ashden Trust Deed provides as follows:
+“The Trustees shall stand possessed of such part of the Trust Fund as shall consist
+of cash UPON TRUST either to pay or apply the same in accordance with the
+trusts hereinafter declared or to invest the same in any investments hereby
+authorised and shall stand possessed of such investments and any other
+investments and property which may from time to time form part of or the whole
+of the Trust Fund UPON TRUST either to allow the same or any part thereof to
+remain as actually invested so long as the Trustees shall think fit or at any time or
+times in their discretion to sell call in or convert the same or any part thereof into
+money and at their discretion either to pay or apply the proceeds of such sale
+calling in or conversion in accordance with the trusts hereinafter declared or to
+invest the same in any manner hereby authorised with power to the Trustees at
+their discretion from time to time to vary or transpose any investments made
+under this Clause for or into other investments hereby authorised.”
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+Clause 5(g) also contained an express power to invest. And clause 9.1 dealt with trust
+moneys “requiring to be invested” as follows:
+“Trust moneys requiring to be invested may be invested not only in any mode for
+the time being authorised by law for the investment of trust funds but also in the
+purchase or upon the security of… such shares stocks securities… or other
+investments or property of whatever nature and in any part of the world and
+whether involving liability or not and whether producing income or not or
+secured at interest or by way of guarantee in furtherance of the above objects as
+the Trustees shall determine [.] To the Intent that the Trustees shall be
+empowered to invest and transpose the investment of trust moneys in the same
+unrestricted manner as if they were the beneficial owners of such moneys…”
+16. The Mark Leonard Trust Deed contained similar powers in clauses 3 and 9.
+17. Approximately 85% of the funds in both trusts are managed by Cazenove. The
+remaining 15% is managed directly by the Claimants through an “Impact Investment”
+fund. Its mandate is to achieve positive environmental and societal impact and to
+achieve a return commensurate with the rest of the trusts’ funds. There is an
+independent financial advisor dealing with the Impact Investment fund and it does not
+form part of this application or the relief sought from the Court.
+18. The Claimants’ current investment policies with Cazenove were approved on 27 April
+2015 for the Ashden Trust and on 3 November 2015 for the Mark Leonard Trust. The
+policies excluded investments that were considered to be contributing to climate
+change, such as fossil fuel companies, but favoured companies with policies or
+products designed to limit climate change. The Ashden Trust policy stated that it:
+“supports the development of equitable, sustainable societies. The Trust has a
+duty to act in the long-term interests of its beneficiaries. In this fiduciary role, the
+trustees wish to make investments that will provide a good return and will not
+undermine the trust’s charitable objectives and the work of its grantees”.
+The policy continued to state that the trustees considered fossil fuel stocks to be
+overvalued and that if climate change were not limited to a 2°C increase there would
+be high costs to the global economy. Even though the Claimants had divested their
+investments in fossil fuel companies, they still retained single shares in them in order
+to be able to exert pressure on green policies at shareholder meetings.
+19. However the Claimants consider that many of the current holdings in their portfolios
+conflict, or might conflict, with the Trusts’ charitable purposes of advancing
+environmental protection or improvement, the prevention or relief of poverty and the
+relief of those in need. They are still invested in shares that are not fully aligned with
+the goals set down in the Paris Agreement for limiting the increase in global
+temperatures to well below 2°C and preferably to 1.5°C.
+THE PROPOSED NEW INVESTMENT POLICY
+20. Because of this concern, the Claimants, in conjunction with WREN, an independent
+private investment office, have developed detailed draft investment policy statements
+(there are immaterial differences and for convenience I will refer to them collectively
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+as the Proposed Investment Policy) and this seeks to ensure that the Charities’
+investments are aligned with the goals of the Paris Agreement and thereby avoid
+direct conflict with their charitable purposes. The Ashden Trust policy is dated 21
+April 2020 and the Mark Leonard Trust policy is dated 24 April 2020.
+21. The Proposed Investment Policy begins with a “Statement of Investment Beliefs”. It
+states:
+“Through grant giving the trust supports the development of sustainable, resilient
+and equitable societies. As well as requiring an investment return to fund its
+charitable giving, the trust has a duty to act in the long-term interests of its
+charitable purposes. In this fiduciary role, the trustees wish to make investments
+that will provide a good risk-adjusted return and that do not conflict with the
+trust’s charitable purposes or adversely affect the issues that the trust, through its
+charitable giving, seeks to address.”
+It then continued to set out the risks of not doing anything to tackle climate change. A
+little later in the same section, the Proposed Investment Policy stated:
+“The trustees also consider that investments in sustainable sectors and climate
+solutions provide opportunities to increase the trust’s financial return and support
+its charitable objectives. Zero and low carbon technologies, energy, resource
+efficiency and nature based solutions and adaptation investments will continue to
+grow in the developed and developing world. The trustees seek to increase their
+exposure to these investments.”
+22. Under the heading “Investment Goals and Objectives”, it stated:
+“To protect and enhance the trust’s financial returns and support its charitable
+objectives, the trust aims to align its investments with the Paris Climate
+Agreement. In other words, the trust’s total investment portfolio should be
+constructed on the basis that its GHG [greenhouse gas] emissions are aligned with
+the long-term global warming target of well below 2°C, and preferably 1.5°C,
+above pre-industrial levels, accepting that individual investments will differ in
+their carbon intensity.
+The investment objective for the trust is to generate capital growth in excess of
+inflation over the long term whilst generating a sustainable spending level to
+support the trust’s ongoing grant making activities. The trustees wish to express
+their overall investment return objective as UK consumer price inflation (CPI) +
+5% per annum on average over five year rolling periods. The return objective will
+be reviewed regularly.
+The trustees are comfortable with meeting their spending needs from a
+combination of income and capital and therefore have adopted a total return
+approach to investing.”
+23. There is an obvious difficulty in defining which investments are or are not aligned
+with the goals of the Paris Agreement. The Paris Agreement itself does not attempt to
+do that and as Mr Jaffey QC submitted and as stated above it only purports to bind its
+signatories and it does not impose obligations on other parties or charities.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+Nevertheless the Claimants have chosen to use the goals of the Paris Agreement as the
+basis for the formulation of the Proposed Investment Policy. The “Investment
+Guidelines” attempt to spell this out as follows:
+• “Constrain the portfolio’s exposure to sectors highly exposed to climate
+change (see investment exclusions);
+• On average a minimum of a 7% yearly reduction in GHG emissions
+intensity until 2050;
+• Starting from 2020, a 50% minimum reduction in GHG emissions
+intensity compared to the market index and an absolute reduction of
+50% by 2030;
+• At least four times more green assets than the market index of brown
+assets;
+• Scope 3 emissions analysis should be factored in over the next four
+years.”
+24. The Greenhouse Gas Protocol, which was developed by the World Resources
+Institute, sets out internationally accepted greenhouse gas accounting and reporting
+standards for companies and organisations so as to provide transparency in relation to
+GHG emissions. It divides emissions into three Scopes: Scope 1 emissions are direct
+emissions under the direct control of the company; Scope 2 emissions cover indirect
+emissions which include the production and use of energy by the company; and Scope
+3 emissions cover all other indirect emissions which are a consequence of a
+company’s value and supply chain activities. Presently, Scope 3 reporting by
+companies is optional and it is therefore difficult to measure. The last bullet point in
+the Proposed Investment Policy reflects the fact that more accurate reporting of Scope
+3 emissions will become available over the next four years or so.
+25. Those guidelines are implemented by exclusions that have three elements:
+quantitative screens; qualitative screens; and limits on fund selection. The quantitative
+screens exclude all direct investments in tobacco, weapons, fossil fuel extraction,
+production and reserves and companies which derive more than 50% of revenues
+from the fossil fuel sector and mining.
+26. The qualitative screens and limits on fund selection are as follows:
+• Energy intensive companies (cement, steel, paper) and mining unless
+they have adopted a business strategy and plan that accords with the
+Paris Climate Agreement to cut emissions limit to climate change and
+transforming to low-carbon energy. A best in class approach should be
+applied and the trustees would need to be convinced that these
+companies are being managed and operated to the highest ethical, social
+and governance standards
+• Clean tech companies that specialise in extending the lifespan of fossilfuel industries
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+• Commodity producers that contribute to deforestation and destruction of
+the rainforest (unsustainable beef, soya and palm oil producers)
+• Companies which do not rank in the 1st and 2nd quartiles of ESG
+[Environment, Social, Governance] ratings, unless the investment
+managers can convince the trustees that there is a strong case for
+investment from a sustainability point of view, as outlined in the section
+on Investment Guidelines
+No investments in funds or passive tracker investments with exposure to
+fossil fuel extraction.”
+27. As Mr Jaffey QC pointed out this necessarily excludes over half of publicly traded
+companies and many commercially available investment funds, because of the
+requirement to be in the top two quartiles of ESG ratings. Nevertheless, the Proposed
+Investment Policy specifies a targeted rate of return of “CPI + 4% over 5 year rolling
+periods (net of all fees)”. As to relevant benchmarks against which to measure the
+portfolios’ performance, the Proposed Investment Policy states that:
+“The investment managers will be expected to outperform relevant benchmarks
+and to rank above the median of the relevant peer group. The trustees
+acknowledge that Paris alignment will result in deviation from traditional
+benchmarks and therefore also wish to monitor the portfolio performance against
+the relevant ESG and Paris aligned benchmarks.”
+28. At a meeting on 21 April 2020 of the Ashden Trust trustees together with
+representatives from Cazenove and WREN, the Proposed Investment Policy was
+considered and all those attending were happy with it. It was not formally approved at
+the meeting but Cazenove said that they could manage the portfolio based on the
+policy. Cazenove were asked to formulate a new portfolio based on the Proposed
+Investment Policy.
+29. On 1 May 2020, Cazenove presented a new portfolio to the Ashden Trust trustees that
+was within the Proposed Investment Policy. This proposed direct investments in a
+number of shares in different companies across a range of industries including
+technology and new media, fish farming and pharmaceuticals. Cazenove said that it
+considered the proposed portfolio to contain an appropriate level of risk for a longterm charity investor. It has also accepted the investment return target of CPI + 4%
+over 5 year rolling periods although it did not specify the predicted returns of the 1
+May proposed portfolio. It estimated that the restrictions imposed by the Proposed
+Investment Policy excluded approximately 20.1% of the investable universe in total,
+although the trustees consider that the exclusions will actually be much higher once
+further information about companies’ alignment with the Paris Agreement is
+forthcoming.
+30. However at the meeting on 1 May 2020, when Cazenove presented its proposed
+portfolio, the trustees expressed some concerns about the concentration of the
+portfolio in direct equities. They instructed Cazenove to prepare amended versions
+that reduced the allocation to direct equities to 50% and increased the allocation
+towards green funds and general sustainability funds.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+31. By email dated 12 May 2020, Cazenove outlined three options that would comply
+with the Proposed Investment Policy and the trustees’ instruction. Option 1 was the 1
+May proposed portfolio with 60% directly invested in global equities and 12% in
+thematic funds with a green focus. Option 2 was an amended version of the 1 May
+proposed portfolio with 50% of directly invested equities, 12% thematic funds with a
+green focus and 10% in general sustainability funds. And Option 3 was a further
+amended version with 50% directly invested equities, 18% thematic funds with a
+green focus and 4% in general sustainability funds. Cazenove explained that Option 3
+with its additional fund exposure had the highest overall costs and volatility and a
+higher green revenue exposure than the other Options.
+32. The trustees prefer Option 3 as the baseline for implementation of the Proposed
+Investment Policy. They recognise that there will be a financial detriment in the short
+term and that as more Scope 3 emissions data becomes available the investable
+universe will be diminished further. Ms Butler-Sloss in her witness statement properly
+admitted that she and the trustees are unable to conclude the extent of the financial
+detriment that may be suffered by the adoption of the Proposed Investment Policy.
+She said:
+“Excluding investments that are not aligned with the Paris Agreement would
+reduce the investable universe by a much greater extent than the exclusion of
+fossil fuels. At this point, the Trustees cannot precisely ascertain the magnitude of
+this reduction or how it will increase the risk of financial detriment. The financial
+risks and potential financial detriment resulting from the adoption of the
+Investment Policy Statement may become more accurately quantifiable at some
+point in the future as or if financial markets adopt Paris-alignment more widely.”
+33. In the two years since the proposed portfolios were put forward by Cazenove, none of
+them have actually been implemented pending the approval by this court of the
+Proposed Investment Policy. Therefore the charities’ portfolios have continued to be
+managed under the existing 2015 policy.
+34. Both the Charity Commission and the Attorney General submit that the Claimants did
+not adequately balance the potential financial detriment that would be suffered by the
+adoption of the Proposed Investment Policy with the conflict to the charitable
+purposes. However it is clear from the Proposed Investment Policy itself that there is
+a targeted rate of financial return within it, which the Charity Commission’s evidence
+indicates is in line with the published rates of return of other large charities, such as
+the Church Commissioners or the Wellcome Trust. The Claimants therefore hope that
+the Proposed Investment Policy will not have any material financial impact in the
+long term while also acting in accordance with their charitable purposes.
+CHARITY COMMISSION GUIDANCE
+35. Pursuant to section 15(1) of the Charities Act 2011, one of the general functions of the
+Charity Commission is “Encouraging and facilitating the better administration of
+charities”. Section 15(2) provides that in relation to this function, the Charity
+Commission may “give such advice or guidance with respect to the administration of
+charities as it considers appropriate”.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+36. In 2014, the Charity Commission published general guidance in relation to charity
+trustees’ duties in respect of investments. The publication was called “Charities and
+investment matters: a guide for trustees (CC14)” (CC14). It was updated in 2016
+following the coming into force of the Charities (Protection and Social Investment)
+Act 2016. The guidance is accompanied by a “legal underpinning” document which
+sets out the Charity Commission’s view of the law.
+37. In 2021, the Charity Commission sought to consult on potential changes to its
+guidance in this respect but after I granted permission to the Claimants to bring these
+proceedings, the Charity Commission has indicated that it will await my decision
+before finalising its new guidance and legal underpinning document.
+38. CC14 identifies four types of investment:
+a) ‘financial investment’, the purpose of which is “to yield the best financial
+return within the level of risk considered to be acceptable – this return can
+then be spent on the charity’s aims.” It is only this type of investment with
+which this application is concerned.
+b) ‘programme related investment’, which is aimed at furthering the
+charity’s purposes while also achieving a financial return. An example
+might be a loan scheme to support unemployed people back to work,
+repayable with interest.
+c) ‘mixed motive investments’ where the investment does not fit wholly
+within either previous category and may be justified.
+d) ‘social investments’ which were introduced by the Charities (Protection
+and Social Investment) Act 2016 and have the mixed purpose designed to
+further the charity’s purposes and achieve a financial return.
+39. Section 3.3 of CC14 asks the question whether a charity can “decide to make ethical
+investments?”
+1
+. It answers as follows:
+“The short answer
+Yes. Trustees of any charity can decide to invest ethically, even if the investment
+might provide a lower rate of return than an alternative investment. Ethical
+investment means investing in a way that reflects a charity’s values and ethos and
+does not run counter to its aims. However, a charity’s trustees must be able to
+justify why it is in the charity’s best interests to invest in this way. The law
+permits the following reasons:
+• a particular investment conflicts with the aims of the charity
+• the charity might lose supporters or beneficiaries if it does not invest
+ethically
+• there is no significant financial detriment
+1
+In the 2021 Consultation, the Charity Commission have decided to call this “responsible investment”.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+In more detail
+Trustees must ensure that any decision that they take about adopting an ethical
+investment approach can be justified within the criteria above. They must be clear
+about the reasons why certain companies or sectors are excluded or included.
+Trustees should also evaluate the effect of any proposed policy on potential
+investment returns and balance any risk of lower returns against the risk of
+alienating support or damage to reputation. This cannot be an exact calculation
+but trustees will have to assess the risk to their charity.
+An ethical investment approach may involve one or a combination of the
+following approaches:
+• negative screening: this means avoiding investment in companies
+or sectors or companies undertaking a particular activity or
+operating in a way which may be harmful to the charity’s
+interests
+• positive screening: this means investing all or part of an
+investment portfolio in companies or sectors which reflect a
+charity’s values in areas like environmental protection, health,
+employment or human rights, or in a wider range of companies
+that demonstrate good corporate social responsibility and
+governance; for example, positive screening might involve only
+investing in companies that have targets/proven records for
+reducing their carbon footprint
+• stakeholder activism: this is where a charity, as a shareholder,
+exercises its voting rights in order to influence a company’s
+policies in a way that reflects its values and ethos; this could
+mean that a charity might invest in companies whose
+environmental policies it does not approve of in order to
+encourage more responsible business practices within those
+companies - it is also possible to engage in stakeholder activism
+as a programme related or mixed motive investment (see section
+8)”
+40. As was made clear in the legal underpinning document, the above guidance is based
+on the approach taken in the Bishop of Oxford case. However, Mr Cumming QC
+submitted that the guidance actually elides what the Vice-Chancellor said in the
+Bishop of Oxford case about direct and indirect conflicts with a charity’s purposes and
+suggests that charity trustees have a discretion in relation to all investments and that
+even direct conflicts with a charity’s purposes require a balancing exercise with the
+financial detriment and risks. Mr Cumming QC said that this contradicts the Bishop of
+Oxford case in that the Vice-Chancellor held that there was an absolute prohibition
+against investments that directly conflict with a charity’s purposes. I will examine
+below whether that is the correct interpretation of the Bishop of Oxford case. In any
+event, Mr Cumming QC supported the approach of the Charity Commission and
+everyone seemed to be agreed that if the Vice-Chancellor had held that there was an
+absolute prohibition, then his dictum in that respect should not be followed.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+41. The Charity Commission filed evidence in these proceedings that gave an overview of
+the broad nature of the charity sector and some of the bigger charities’ investment
+policies. There are around 170,000 charities in England and Wales, most of them
+relatively small and with little or no assets to invest. A few charities have substantial
+assets to invest, such as these charities, but there is a wide variety of investment
+strategies that they adopt. This shows the discretion that their trustees have, but
+always acting so as to further the purposes of the particular charity.
+42. It is clear from this evidence that the law in relation to trustees’ powers of investment
+needs to be capable of being implemented and complied with by trustees of all types
+of charities. It should not be overly prescriptive and should enable trustees to adopt
+policies that are suited to their particular charity. That is not to say that the law has to
+be relaxed so as to accommodate all different types of charities, just that the law must
+realistically protect all charities whatever their size or purposes.
+LAW ON CHARITIES’ POWERS OF INVESTMENT
+43. Before turning to the Bishop of Oxford case, it is important to have in mind some
+general principles relating to charities and their trustees’ powers of investment.
+44. Charities can be structured in a number of different ways, including by traditional
+trust, registered company (normally limited by guarantee), unincorporated
+association, friendly society and, since January 2013, a Charitable Incorporated
+Organisation. Both the Ashden and Mark Leonard Trusts are trusts in the strict sense
+of the word and the Claimants are trustees in the same sense. As such they are subject
+to the same duties as any other non-charitable trustees. Importantly for these purposes,
+the Trustee Act 2000 applies to them.
+45. In a private trust, the trustees owe their fiduciary and other duties to the beneficiaries
+who may enforce such duties. Charities have no beneficiaries as such; they are trusts
+for a public benefit purpose. They are protected and supervised by a combination of
+the Attorney General, the Charity Commission and the High Court. As Mummery LJ
+said in Gaudiya Mission v Brahmachary [1998] Ch 341, at p.350E:
+“Under English law charity has always received special treatment. It often takes
+the form of a trust; but it is a public trust for the promotion of purposes beneficial
+to the community, not a trust for private individuals. It is therefore subject to
+special rules governing registration, administration, taxation and duration.
+Although not a state institution, a charity is subject to the constitutional protection
+of the Crown as parens patriae, acting through the Attorney-General, to the state
+supervision of the Charity Commissioners and to the judicial supervision of the
+High Court. This regime applies whether the charity takes the form of a trust or of
+an incorporated body”.
+46. In the recent charity case in the Supreme Court, Children’s Investment Fund (UK) v
+Attorney General [2022] AC 155, Lady Arden seems to have concluded that the
+fiduciary duties owed by trustees (in that case it was actually the member of the
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+incorporated registered charity) are owed “to the charitable purposes or objects of the
+charity” (see [50], also [78] and [200]). The overriding duty of charitable trustees is to
+further the purposes of the charity (see p.1246A of the Bishop of Oxford case) and the
+Attorney General represents the Crown as parens patriae and can enforce the trustees’
+duties acting in the public interest in ensuring that charities are properly administered.
+47. I have set out above the express powers of investment contained in the respective
+Trust Deeds. The general power of investment set out in the Trustee Act 2000 is also
+applicable to these trustees. Section 3 of the Trustee Act 2000 defines the general
+power of investment in the following terms: “Subject to the provisions of this Part, a
+trustee may make any kind of investment that he could make if he were absolutely
+entitled to the assets of the trust.”
+48. The standard investment criteria that must be considered by trustees in exercising
+their power of investment are set out in s.4 of the Trustee Act 2000 as follows:
+“4. Standard investment criteria
+(1) In exercising any power of investment, whether arising under this Part
+or otherwise, a trustee must have regard to the standard investment criteria.
+(2) A trustee must from time to time review the investments of the trust
+and consider whether, having regard to the standard investment criteria,
+they should be varied.
+(3) The standard investment criteria, in relation to a trust, are –
+(a) the suitability to the trust of investments of the same kind as any
+particular investment proposed to be made or retained and of that
+particular investment as an investment of that kind, and
+(b) the need for diversification of investments of the trust, in so far
+as is appropriate to the circumstances of the trust.
+(4) This section has effect subject to section 292C(6) of the Charities Act
+2011 (which disapplies the duties under this section in cases where they
+would otherwise apply in relation to a social investment within the meaning
+of Part 14A of that Act).”
+Subsection (4) refers to social investments, which are not relevant to this case.
+Trustees’ duties in relation to social investments are set out in s.292C of the Charities
+Act 2011.
+49. By section 5 of the Trustee Act 2000, before exercising any power of investment,
+trustees must obtain and consider proper advice about how their power of investment
+should be exercised. That is subject to the exception in s.5(3) where the trustees have
+reasonably concluded in all the circumstances that it is unnecessary or inappropriate
+to obtain such advice. And by s.1 of the Trustee Act 2000, the trustees have a duty of
+care when exercising their powers of investment.
+50. The requirements of the Trustee Act 2000 say nothing about non-financial
+considerations that can or cannot be taken into account by trustees when exercising
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+their powers of investment. Nor is there anything specific to charities in the Trustee
+Act 2000, save for the reference to social investments in s.5(5).
+51. In relation to social investments, which were introduced into s.292A of the Charities
+Act 2011 (by the Charities (Protection and Social Investment) Act 2016) these are a
+hybrid form of investment that charities can make when done “with a view to both –
+(a) directly furthering the charity’s purposes; and (b) achieving a financial return for
+the charity.” This came about because there was uncertainty as to whether charity
+trustees were able to use their ordinary power of investment when there might be no
+anticipated positive financial return (see the Law Commission Consultation Paper on
+Social Investment by Charities – Consultation Paper No 216). This case is not about
+social investments but it is interesting to see why it was thought necessary to provide
+a specific power to charity trustees to make such investments.
+52. In Cowan v Scargill [1985] 1 Ch 270, Sir Robert Megarry V-C had to consider
+whether the trustees of the mineworkers pension scheme, half of whom were
+appointed by the National Union of Mineworkers, including Mr Arthur Scargill (who
+represented himself in court), were acting in breach of their duties in blocking an
+investment plan which included an increase in overseas investment and investments in
+energy companies that were in direct competition with coal. Such investments would
+be contrary to the NUM’s policy and principles. This was a trust for the provision of
+financial benefits to individuals, not for a charitable purpose. As such, the ViceChancellor held that as this was a trust to provide financial benefits, the power of
+investment must be exercised to yield the best return for the beneficiaries. However
+he qualified this moderately by saying that while the trustees’ paramount concern
+must be the beneficiaries’ financial benefit, there may be non-financial benefits that
+the beneficiaries may wish to obtain even if they might as a result receive lesser
+financial benefits. He thought that this would rarely be the case and it seems to me to
+be heavily dependent on the fact that the beneficiaries would effectively have to
+consent to that course of action. In the case of charities, there are no beneficiaries who
+can give such consent. That is the situation that the Vice-Chancellor had to contend
+with in the Bishop of Oxford Case, to which I now turn.
+THE BISHOP OF OXFORD CASE
+53. The Bishop of Oxford case is the only reported case dealing with so-called ethical
+investments by charities. It was brought by the then Bishop of Oxford (and two other
+priests) against the Church Commissioners in relation to their investment policy
+concerning South Africa. The case was heard in 1991, at the time South Africa was
+transitioning to democracy and there were a range of views within the Church of
+England about the appropriateness of investing in South Africa. While there has been
+understandable focus on the Vice-Chancellor’s general exposition of the law relating
+to the exercise of charitable trustees’ investment powers, it is important not to
+overlook the actual decision that he made.
+54. The Church Commissioners’ charitable objects were “financial assistance for clergy
+of the Church of England”. In that sense, the Bishop of Oxford (who was himself a
+Church Commissioner) and the other Claimants could be said to be beneficiaries. The
+Church Commissioners already had in place an ethical investment policy that
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+excluded investments in armaments, gambling, tobacco and newspapers. They also
+had an express policy in relation to investments in South African companies but the
+Claimants considered that it did not go far enough and sought stricter investment
+criteria for such investments. However the actual declarations that they were asking
+the Court to make did not refer to South Africa and were in quite general terms
+(p.1252B-C):
+“(1) That the commissioners…are obliged to have regard to the object of
+promoting the Christian faith through the established Church of England; and
+(2) that in the exercise of those functions…may not act in a manner which
+would be incompatible with that object.”
+55. The Vice-Chancellor refused to make both declarations on the grounds of their
+ambiguity and lack of necessity. He said that the Church Commissioners had had
+regard to their objects as shown by their adoption of their ethical investment policy.
+Furthermore he said ““Have regard to the object” is a loose phrase, and there is a
+real danger it will mean all things to all men.” He also rejected the second declaration
+on the basis that it would not assist the Church Commissioners in that: “it would not
+deal with how the commissioners should proceed when confronted with differing
+views on whether, on moral grounds, a proper investment is in conflict with the
+objects the commissioners are seeking to promote.”
+56. That was the actual decision of the Vice-Chancellor. But it has been the general
+principles as to the exercise of investment powers by charity trustees that has been
+influential and informed decision-making as to investment policy ever since,
+including the basis for the CC14 guidance on ethical investment. It is technically
+obiter dicta but given the great standing of the Vice-Chancellor in this field and the
+rarity of such cases getting to court, the judgment deserves the utmost respect.2
+57. At p.1246A-B, the Vice-Chancellor set out the fundamental principle underlying the
+exercise of any power by charity trustees:
+“It is axiomatic that charity trustees, in common with all other trustees, are
+concerned to further the purposes of the trust of which they have accepted the
+office of trustee. That is their duty. To enable them better to discharge that duty,
+trustees have powers vested in them. Those powers must be exercised for the
+purpose for which they have been given: to further the purposes of the trust. That
+is the guiding principle applicable to the issues in these proceedings. Everything
+which follows is no more than the reasoned application of that principle in
+particular contexts”.
+58. Dealing specifically with the power of investment, the Vice-Chancellor said that
+maximising financial return is the “starting point” because charities always need more
+money. At p.1246D-E he said:
+“…prima facie the purposes of the trust will be best served by the trustees seeking
+to obtain therefrom the maximum return, whether by way of income or capital
+2 The Charity Commission (for instance in its draft Legal Underpinning document dated March 2021) had
+originally suggested that the Vice-Chancellor only intended to deal with trusts that had a permanent endowment
+and therefore a duty to invest. However at the hearing it accepted that the principles set out by the ViceChancellor are not so limited.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+growth which is consistent with commercial prudence. That is the starting point
+for all charity trustees when considering the exercise of investment powers. Most
+charities need money; and the more of it there is available, the more the trustees
+can seek to accomplish.
+In most cases this prima facie position will govern the trustees’ conduct. In most
+cases the best interests of the charity require that the trustees’ choice of
+investments should be made solely on the basis of well-established investment
+criteria, having taken expert advice where appropriate and having due regard to
+such matters as the need to diversify, the need to balance income against capital
+growth, and the need to balance risk against return”.
+59. The Vice-Chancellor then went on to consider what have subsequently been
+categorised into three exceptions to the general rule. Perhaps more accurately they
+should be described as situations where the “starting point” is not necessarily the end
+point and other considerations can come into play. The Vice-Chancellor considered
+that these would only be “comparatively rare” cases.
+60. The first is of direct conflict with the charity’s purposes. The Claimants say that this is
+the category with which this case is concerned. The Vice-Chancellor had in mind the
+straightforward conflicts exemplified by cancer research charities investing in tobacco
+shares; temperance charities in brewery/distillery shares; and Quakers in armaments
+companies. In relation to these situations the Vice-Chancellor said (emphasis added):
+“If, as would be likely in those examples, trustees were satisfied that investing in
+a company engaged in a particular type of business would conflict with the very
+objects the charity is seeking to achieve, they should not so invest. Carried to its
+logical conclusion the trustees should take this course even if it would be likely to
+result in significant financial detriment to the charity. The logical conclusion,
+whilst sound as a matter of legal analysis, is unlikely to arise in practice. It is not
+easy to think of an instance where in practice the exclusion for this reason of one
+or more companies or sectors from the whole range of investments open to
+trustees would be likely to leave them without an adequately wide range of
+investments from which to choose a properly diversified portfolio.”
+61. There was much debate before me as to whether, by using the word “should”, the
+Vice-Chancellor was holding that there was an absolute prohibition on investments
+that directly conflict with the charity’s purposes. It seems to me important that the
+context of the Vice-Chancellor’s holding is that he thought that in practice there
+would not be a significant financial detriment in such cases of direct conflict. He
+could not have contemplated the current case where there is potential exclusion of a
+large number of possible investments on the basis that they do directly conflict with
+the charities’ purposes.
+62. The second category, which has been termed “indirect conflicts”, is where the
+proposed investments might alienate supporters or donors to the charity or make
+recipients from the charity less willing to be helped. The Vice-Chancellor seemed to
+consider that this would also be comparatively rare but that in this situation the
+trustees would have to balance the risks involved. At p.1247A-B, he said
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+“…the trustees will need to balance the difficulties they would encounter, or the
+likely financial loss they would sustain, if they were to hold the investments
+against the risk of financial detriment if those investments were excluded from
+their portfolio. The greater the risk of financial detriment, the more certain the
+trustees should be of countervailing disadvantages to the charity before they incur
+that risk”
+63. The Vice-Chancellor then suggested that there may be other cases “where trustees are
+justified in departing from what would otherwise be their starting point” but he did
+not elaborate on what they might be. He did explain, however, (and this is the third
+category) that investment decisions should not be made by taking into account moral
+considerations, particularly where that causes financial detriment to the charity. At
+p.1247E, he said:
+“[Trustees] must not use property held by them for investment purposes as a
+means for making moral statements at the expense of the charity of which they
+are trustees. Those who wish may do so with their own property, but that is not a
+proper function of trustees with trust assets held as an investment.”
+He then expanded on the question of differing moral opinions at p.1247G:
+“Trustees may, if they wish, accommodate the views of those who consider that
+on moral grounds a particular investment would be in conflict with the objects of
+the charity, so long as the trustees are satisfied that course would not involve a
+risk of significant financial detriment”:
+64. The boundaries of law and morality are sometimes difficult to define and perhaps
+even more so in the context of charities, which are often underpinned by a strong
+sense of moral imperative. But decisions by trustees have to be legally justifiable. In
+the case of charities, s.106 of the Charities Act 2011 requires charity trustees to obtain
+the approval of the Charity Commission, the Attorney General or the High Court
+when they “regard themselves as being under a moral obligation” to make a payment
+or refuse a gift. In other words, acting pursuant to what the trustees perceive to be a
+“moral obligation” will be carefully supervised.
+65. This is in line with the Vice-Chancellor limiting the involvement of morality in
+trustees’ decision-making. And the Vice-Chancellor had had cited to him the case of
+Re Snowden [1970] 1 Ch 700 in which there was discussion as to whether the
+Attorney General or the Court had power to approve a payment which is motivated
+purely by the trustees feeling under a moral obligation to make the payment. So the
+circumscribing of decisions by trustees taken on moral grounds is not new and
+continues to be a constraint on the exercise of the power of investment.
+66. Mr Jaffey QC took me to the Supreme Court decision in R (Palestinian Solidarity
+Campaign Ltd and anor) v Secretary of State for Housing, Communities and Local
+Government [2020] 1 WLR 1774, where both Lord Wilson and Lord Carnwath JJSC3
+expressly approved a statement in the Law Commission’s report entitled Fiduciary
+Duties of Investment Intermediaries (2014) (Law Com No 350) as to when trustees
+3 Lady Arden and Lord Sales JJSC dissented, but not on this point.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+(these were pension trustees) can take into account non-financial factors in relation to
+investment decisions. Lord Carnwath said that trustees:
+“may take non-financial considerations into account – “provided that doing so
+would not involve significant risk of financial detriment to the scheme and where
+they have good reason to think that scheme members would support their
+decision.””
+(Mr Cumming QC submitted that there may be a difference between “significant risk
+of financial detriment” and “a risk of significant financial detriment”, as the ViceChancellor put it.)
+67. Mr Jaffey QC put forward a thesis based on the Bishop of Oxford case, that trustees
+should reverse through the categories when deciding on their investment policy. So
+starting with category 3 he submitted that trustees had first to work out whether the
+proposed investment policy risked significant financial detriment over the period of
+investment. If so, moral considerations could not play a part in their decision whether
+to adopt the policy. They would then move to category 2 and consider whether the
+charity might lose supporters or beneficiaries if the policy was not adopted and
+balance that against the likely investment returns. Finally they would turn to category
+1 and if investments are thought to conflict with the charity’s objects then they need
+not be made even if there is a risk of significant financial detriment.
+68. While there is a certain neatness to it, I am not persuaded by this schematic approach
+to trustees’ decision-making in this area and I do not consider that this was what was
+contemplated by the Vice-Chancellor in the Bishop of Oxford case. Similarly, I do not
+think that the Vice-Chancellor was laying down either what “significant financial
+detriment” actually meant or that it was any form of threshold test that the trustees
+had to consider before anything else. Clearly financial detriment arising out of the
+pursuit of a particular investment policy is an important factor that trustees need to
+consider when balancing all the relevant factors. But there is a danger in treating the
+words of the Vice-Chancellor as though they are statutory requirements and
+prescriptive.
+69. The important issue for this case arising out of the Bishop of Oxford case is whether
+there is an absolute prohibition against making investments that directly conflict with
+the charity’s purposes or objects (i.e. whether there is a category 1 conflict) or
+whether it is always a discretionary exercise by trustees and a direct conflict is a
+major but not decisive factor in the balancing process. To a certain extent, the view
+that the Claimants have taken as to the meaning and effect of the Vice-Chancellor’s
+judgment as imposing an absolute prohibition has shaped their application to the
+Court and their evidence. Starting from the perspective that investments that directly
+conflict with their charitable purposes must automatically be excluded, they have
+sought to define what those investments are. They have concluded that any
+investments that do not align with the goals of the Paris Agreement are in direct
+conflict with their charitable purposes.
+70. I think this highlights the serious difficulties that arise if directly conflicting
+investments are automatically excluded by law. First, the Vice-Chancellor only had in
+mind the relatively simple cases of cancer charities not investing in tobacco or the
+Quakers not investing in armaments companies. One would expect that such
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+investments would probably be expressly excluded in the charity’s trust deed or
+governing constitution. Not only did the Vice-Chancellor not contemplate this sort of
+case but also he clearly thought that the straightforward cases that he did refer to
+would not affect greatly the overall investable universe of that charity. The second
+point is both the adequacy of the definition for identifying directly conflicting
+investments and whether the definition that has been adopted will actually in practical
+terms pick up all such investments. In respect of the latter, I am thinking about the
+lack of information concerning Scope 3 emissions.
+71. It seems to me that the Vice-Chancellor was not, as a matter of law, distinguishing
+between a category 1 case of direct conflict and a category 2 case of indirect conflict.
+While he does say that in a case of direct conflict, the trustees “should not so invest”,
+he goes on to say that “Carried to its logical conclusion, the trustees should take this
+course even if it would be likely to result in significant financial detriment to the
+charity” but then concludes that this is “unlikely to arise in practice”. No authority is
+relied upon by the Vice-Chancellor for saying there is an absolute prohibition4
+and he
+does not appear to be saying that that is the legal conclusion that he comes to. Rather
+he is explaining the unlikelihood of there being any sort of financial detriment if
+trustees excluded directly conflicting investments.
+72. The Vice-Chancellor then goes on to explain the balancing exercise that trustees must
+perform in considering the indirect effect of particular investments on beneficiaries or
+donors. There is nothing controversial about this. Nor is there in what he says about
+moral considerations in category 3. But the way the Vice-Chancellor framed the
+issues he was considering was that they were departures from the “starting point” of
+maximising financial returns. If that is the starting point then I find it difficult to see
+how it should be ignored completely when there is a potential direct conflict. If there
+is an absolute prohibition on directly conflicting investments then it would mean that
+this is the first question that trustees must ask and that presumably they are under a
+duty to do so. Again I do not think that the Vice-Chancellor intended to be so
+categoric and his use of the word “should” means something slightly less than “must”
+and does not preclude consideration of other important factors. It is just that a direct
+conflict is likely to be the most significant factor and should be avoided if possible.
+But where there are the practical difficulties around identifying which companies are
+in fact acting in conflict with the charity’s purposes, it cannot be the case that the
+failure to identify such companies may constitute a breach of trust.
+73. My view as to what the Vice-Chancellor meant is fortified a little by his rejection of
+the second declaration that the Bishop of Oxford was seeking, namely that the Church
+Commissioners “may not act in a manner which would be incompatible with that
+object”, which was promoting the Christian faith through the established Church of
+England. That declaration was principally not made because he thought that there
+could well be differing moral views within the Church as to whether particular
+investments were in conflict with the charity’s purpose (see p.1252H). But if he
+thought that there was an absolute prohibition on acting in conflict with the charity’s
+purposes, there should be nothing wrong with a declaration in those terms, which
+would only express what the Church Commissioners were bound to do anyway.
+4 He expressly states at p.1248A that he “was referred to no authority bearing directly on these matters”.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+74. Where conflicts arise, whether in trusts or in companies, they can be resolved by the
+consent of the beneficiaries or the shareholders. There is no absolute prohibition by
+law to entering transactions that involve a conflict. The trouble with charities is that
+there are no beneficiaries as such who can give consent (save for the Attorney General
+acting in the public interest) and in my view that adds weight to the conclusion that
+these are matters for the discretion of the trustees acting consistently with and so as to
+further the purposes of the trust.
+75. Even if I am wrong about what the Vice-Chancellor was saying and he was saying
+that there is an absolute prohibition on direct conflicts, I agree with Mr Henderson
+that, with all due respect, such a dictum should not be followed. It is understandable
+that the Claimants felt that there was sufficient uncertainty around what the ViceChancellor meant so as to require them to seek clarity from the Court in this respect.
+Their case brings sharply into focus what the Vice-Chancellor actually meant in
+relation to direct conflicts because of the difficulties of establishing whether a direct
+conflict actually exists. But for the same reasons as set out above, I do not believe that
+the passage of the Vice-Chancellor’s judgment should be read as imposing, as a
+matter of law, an absolute prohibition against directly conflicting investments. It will
+all depend on the particular facts of the case but the trustees have a discretion in
+relation to the exercise of their powers of investment and that includes in relation to
+potential situations of direct conflict.
+76. This seems to have been the view of the Charity Commission as expressed in CC14
+and the submissions of Mr Jaffey QC. It is also the position of the Attorney General,
+who, if anyone, would be expected to support an absolute prohibition if that was
+thought to be in the public interest. But Mr Henderson was quite clear that this was a
+discretionary decision by the trustees which has to be made with regard to their
+overarching duty to further the purposes of the charity. And Mr Cumming QC also
+preferred that view of the Bishop of Oxford case in terms of what the law should be,
+albeit that, as I said above, he understandably wanted the comfort of this being
+clarified by the court.
+77. The real area of dispute was therefore not about this but about whether the Claimants
+should have the declarations they seek and whether they have in fact carried out the
+necessary balancing exercise in relation to their decision to adopt the Proposed
+Investment Policy such that the court should bless their decision. That is dealt with
+below.
+78. But before turning to the declarations themselves, I should summarise what I consider
+to be the law in relation to charity trustees taking into account non-financial
+considerations when exercising their powers of investment:
+(1) Trustees’ powers of investment derive from the trust deeds or governing
+instruments (if any) and the Trustee Act 2000.
+(2) Charity trustees’ primary and overarching duty is to further the purposes of the
+trust. The power to invest must therefore be exercised to further the charitable
+purposes.
+(3) That is normally achieved by maximising the financial returns on the investments
+that are made; the standard investment criteria set out in s.4 of the Trustee Act
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+2000 requires trustees to consider the suitability of the investment and the need for
+diversification; applying those criteria and taking appropriate advice is so as to
+produce the best financial return at an appropriate level of risk for the benefit of
+the charity and its purposes.
+(4) Social investments or impact or programme-related investments are made using
+separate powers than the pure power of investment.
+(5) Where specific investments are prohibited from being made by the trustees under
+the trust deed or governing instrument, they cannot be made.
+(6) But where trustees are of the reasonable view that particular investments or
+classes of investments potentially conflict with the charitable purposes, the
+trustees have a discretion as to whether to exclude such investments and they
+should exercise that discretion by reasonably balancing all relevant factors
+including, in particular, the likelihood and seriousness of the potential conflict and
+the likelihood and seriousness of any potential financial effect from the exclusion
+of such investments.
+(7) In considering the financial effect of making or excluding certain investments, the
+trustees can take into account the risk of losing support from donors and damage
+to the reputation of the charity generally and in particular among its beneficiaries.
+(8) However, trustees need to be careful in relation to making decisions as to
+investments on purely moral grounds, recognising that among the charity’s
+supporters and beneficiaries there may be differing legitimate moral views on
+certain issues.
+(9) Essentially, trustees are required to act honestly, reasonably (with all due care and
+skill) and responsibly in formulating an appropriate investment policy for the
+charity that is in the best interests of the charity and its purposes. Where there are
+difficult decisions to be made involving potential conflicts or reputational damage,
+the trustees need to exercise good judgment by balancing all relevant factors in
+particular the extent of the potential conflict against the risk of financial detriment.
+(10)If that balancing exercise is properly done and a reasonable and proportionate
+investment policy is thereby adopted, the trustees have complied with their legal
+duties in such respect and cannot be criticised, even if the court or other trustees
+might have come to a different conclusion.
+THE DECLARATIONS
+79. The Claimants have sought a series of declarations, identical for both charities, most
+of which concern the process by which they ultimately concluded that the Proposed
+Investment Policy should be adopted. The final declaration is for the court’s blessing
+in relation to the Proposed Investment Policy and is really, it seems to me, what this
+claim is about. The other declarations are seeking the court’s approval for the building
+blocks of the actual decision under scrutiny. The Claimants invoke the court’s
+inherent jurisdiction to supervise the administration of charities. I questioned at the
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+hearing the need for and purpose of these preliminary declarations. There were
+originally ten declarations in the draft Order attached to the Claim Form but some of
+these were conditional on the proper interpretation of the Bishop of Oxford case.
+During the course of the hearing Mr Cumming QC sensibly removed four of the
+proposed declarations and adjusted some of the wording of the remaining ones.
+80. In relation to the main declaration concerning the Proposed Investment Policy, the
+Claimants apply under what is known as Category 2 from Public Trustee v Cooper.
+Hart J in that case was actually quoting from an unreported judgment of Robert
+Walker J (as he then was) in which he explained four different types of application
+that trustees might make. Category 2 is:
+“where the issue is whether the proposed course of action is a proper exercise of
+the trustees’ powers where there is no real doubt as to the nature of the trustees’
+powers and the trustees have decided how they want to exercise them but,
+because the decision is particularly momentous, the trustees wish to obtain the
+blessing of the court for the action on which they have resolved and which is
+within their powers... In a case like that there is no question of surrender of
+discretion and indeed it is most unlikely that the court will be persuaded in the
+absence of special circumstances to accept the surrender of discretion on a
+question of that sort, where the trustees are prima facie in a much better position
+than the court to know what is in the best interests of the beneficiaries.”
+81. In Re F (Guernsey Court of Appeal, unreported, 10th September 2013) Mr John
+Martin QC sitting as a Judge of the Guernsey Court of Appeal, explained the
+distinction between Categories 2 and 3 of Public Trustee v Cooper, the latter being
+where trustees surrender their discretion to the court because they are unable
+themselves to make the decision. Mr Martin QC said of Category 2:
+“In the second type of application, however, the court is not exercising a
+discretion. What it is doing is in effect making a declaration that the trustees'
+proposed exercise of the power is lawful; in other words, that the proposed
+exercise is within the proper ambit of the power, that the trustees are acting
+honestly, and that in reaching their decision the trustees have taken into account
+all relevant matters, have taken into account no irrelevant matters, and have not
+reached a decision that no reasonable body of trustees could have reached. The
+effect is to protect the trustees from any challenge to their decision by persons
+interested in the trust, and to make clear that the trustees are entitled to indemnity
+from the trust assets in respect of the costs or other financial consequences of
+their decision. It is immaterial that the court, had it been exercising a discretion of
+its own, would have exercised it in a way different from that proposed by the
+trustees. To the extent that the court has any discretion, it is in whether or not to
+admit the application: if, for example, the court considers that the trustees'
+decision is of insufficient moment, it may refuse to entertain the application at all.
+Once it has decided to deal with the application, however, it has no more
+discretion than in the making of any other declaration, and will make it once
+satisfied of the propriety of the proposed exercise of the power
+(See also the helpful summary from Snowden J, as he then was, in Charity
+Commission v Mountstar [2016] Ch 612 at [70-71].)
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+82. Mr Henderson took the point that the evidence in relation to the Ashden Trust showed
+that the trustees had not actually decided to approve the Proposed Investment Policy
+and so there was no decision on which the court could give its blessing. There was
+correspondence on this point with the Claimants’ solicitors in the run-up to this
+hearing from which it is reasonably clear that the Claimants had formed the opinion
+that they should adopt the Proposed Investment Policy subject to the court’s approval.
+Ms Butler-Sloss’ witness statement at paragraph 96 had stated that it had not yet been
+formally approved by the trustees, whereas Mr Sainsbury had said in paragraph 74 of
+his witness statement that the Mark Leonard trustees do “intend to adopt the
+[Proposed Investment Policy] (subject to the court’s approval).” Mr Cumming QC
+confirmed in oral submissions that the position in relation to the Ashden Trust was the
+same as for the Mark Leonard Trust.
+83. If this is a point on jurisdiction in relation to Category 2 of Public Trustee v Cooper,
+then I think it is a bad one, being based purely on semantics and possibly the need for
+a minute recording the decision. The Claimants have clearly decided to adopt the
+Proposed Investment Policy if the court gives its blessing to their decision to do so.
+But I think Mr Henderson was relying on this so as to make a wider point that the
+Claimants should have set out clearly in their record of decision-making the basis for
+that decision. In other words, they should have explained the factors that they took
+into account, the balancing exercise that they undertook and generally how they
+concluded that their discretion should be exercised in favour of adopting the Proposed
+Investment Policy.
+84. This feeds into the substantive objections expressed by both Mr Jaffey QC and Mr
+Henderson as to whether the evidence of the Claimants as to their carrying out of the
+necessary balancing exercise is sufficient for the court to be able to approve their
+decision to adopt the Proposed Investment Policy. Their principal objection, it seems
+to me, is as to whether adequate account has been taken of the financial effect of the
+Proposed Investment Policy. They accept, I think, that the Claimants have carefully
+considered the potential conflict with their charitable purposes of investing in
+companies that are not aligned with the goals of the Paris Agreement. They might not
+agree that the Paris Agreement is necessarily the best way for the conflict to be tested
+but I do not think there could be any basis for suggesting that the Claimants had not
+thought about and researched this responsibly and diligently, including taking into
+account specialist advice. Their concerns are focused on the other side of the
+equation, namely whether the trustees have adequately balanced the anticipated
+financial detriment that would be suffered by the adoption of the Proposed Investment
+Policy.
+85. I think part of the problem in this case is that the Claimants’ evidence and
+consideration of these matters were dependent on two alternative views of the law
+arising out of the Bishop of Oxford case. If the absolutist interpretation that all directly
+conflicting investments were automatically excluded was correct, then the Claimants
+needed a workable definition of what are directly conflicting investments. They came
+up with investments that were misaligned with the goals of the Paris Agreement. On
+that scenario, there was no need to work out the financial implications. But if, as I
+have found, there is no absolute prohibition and the Claimants have to perform a
+discretionary exercise, there needs to be balanced against the potentially conflicting
+investments, the risk of financial detriment from implementation of that policy.
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+86. Mr Jaffey QC and Mr Henderson submitted that the Claimants have not yet struck this
+balance, or if they have, their doing so has not been explained either in the evidence
+or recorded in the minutes of a trustees’ meeting. I think the trustees would have been
+well advised to have set out their reasons for adopting the Proposed Investment Policy
+in principle but I do not accept that they have not provided adequate reasons. In
+particular as to the financial effect of the Proposed Investment Policy, it is explained
+in the Policy itself what the investment goals and objectives are, in particular an
+investment return of CPI +4% pa on average over five year rolling periods. The
+proposed portfolios put forward by Cazenove are dealt with in paragraphs [28] to [32]
+above and take into account that investment return objective which Cazenove
+considered attainable. Ms Butler-Sloss explained in her witness statement that there
+might be a “risk of short term financial detriment- because of the substantially more
+limited investable universe and sectors in which the [Proposed Investment Policy]
+permits investments. The longer the time frame over which this is assessed, the higher
+the likelihood of the return objective being achieved, and the Trust avoiding
+diminished returns as a result of the contemplated change of approach.” [114]. I have
+quoted from [116] of her witness statement in paragraph [32] above.
+87. It seems to me that the Claimants have very much in mind the potential financial
+effect of the Proposed Investment Policy. They cannot be more precise as to the
+figures because things change rapidly and furthermore there remains uncertainty
+about the effect of further Scope 3 emissions data affecting the investable universe.
+Mr Jaffey QC submitted that there is no evidence of the Claimants considering
+alternative strategies such as engaging with companies as a shareholder to bring about
+change from within rather than divesting completely. But I think this criticism is
+unfounded. The Claimants have decided, reasonably in my view, that there needs to
+be a dramatic shift in investment policies in order to have any appreciable effect on
+greenhouse gas emissions and for there to be any chance of ensuring that there is no
+more than a 1.5°C rise in pre-industrial temperature. The only question is whether
+they have sufficiently balanced that objective with any financial detriment that may be
+suffered as a result. In my view they have and the performance of the portfolio will be
+tested regularly against recognised benchmarks and will seek to provide the financial
+return specified in the Proposed Investment Policy.
+88. Accordingly I consider that the Claimants have exercised their powers of investment
+properly and lawfully, having taken account of all relevant factors and not taken into
+account irrelevant factors. I believe that the decision to adopt the Proposed Investment
+Policy is sufficiently “momentous” to justify the court giving its blessing to that
+decision and I therefore make the declaration that is sought in the adjusted wording of
+declaration 9 in the draft Order. That is in the following terms, with my amendments:
+“The trustees of the Charities are (a) permitted to adopt [the Proposed Investment
+Policy] and (b) that doing so will discharge their duties in respect of the proper
+exercise of their powers of investment.”
+89. Mr Cumming QC accepted in the end that this was the only declaration that he
+actually needed and he left it to the court to decide if the other declarations needed to
+be or should be made. The other declarations explain how the Claimants got to make
+their decision to adopt the Proposed Investment Policy and seek the court’s approval
+for the lawfulness of each step in that process. Mr Jaffey QC and Mr Henderson had a
+THE HONOURABLE MR JUSTICE MICHAEL GREEN
+Approved Judgment
+Butler-Sloss and ors v Charity Commission for England and
+Wales and anor
+number of objections to these declarations, in respect of their vagueness, uncertainty
+and whether they were correct in law.
+90. In my view, the other declarations are both unnecessary and inappropriate. They do
+not obviously come within Category 2 of Public Trustee v Cooper (they may come
+within Category 1 or the inherent jurisdiction to supervise charity trustees). They do
+not really add to the main declaration that I am going to make as to the decision to
+adopt the Proposed Investment Policy. And I do not think it is appropriate for the
+court to be making declarations as to such granular detail as to whether the Claimants
+were entitled to rely on a particular IPCC Report or whether by the adoption of the
+Policy the Claimants were not making “impermissible moral statements”. Quite apart
+from taking obiter dicta of the Vice-Chancellor in the Bishop of Oxford case as being
+effectively statutory words, I do not think the court is in a position to come to a
+conclusion on that.
+91. In all the circumstances I will make the declaration as set out above, subject to any
+drafting points that the parties may have in relation to it, but I will not make any other
+declarations. Accordingly the Claimants can proceed to implement their Proposed
+Investment Policy and they will be acting lawfully in doing so.
+92. I should record that the Charity Commission have expressed some concern about the
+high level of costs expended on this litigation by the charities. I will not comment on
+that, save to say that I think it was important, not only for these charities, but also for
+charities generally, that there should be clarity as to the law on investment powers of
+charity trustees. That is why I gave permission for these proceedings to be brought. I
+hope that such clarity has been provided. I understand that there has been agreement
+between the parties in relation to the costs of the proceedings and I need say no more
+about that.
