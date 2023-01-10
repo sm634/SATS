@@ -1,20 +1,20 @@
-import os
+from decouple import config
 
 import openai
 
-openai.api_key = os.getenv('OPENAI_API_KEY')
+openai.api_key = config('OPENAI_API_KEY')
 
 
 def generate_prompt(text):
-    return """Summarize the text below into one short paragraph:
+    return """Summarize this in three short sentences:
     
-    {}
+    "{}"
     """.format(text)
 
 
 def summarize_text(text):
     response = openai.Completion.create(
-        engine="text-curie-001",
+        engine="text-davinci-003",
         prompt=generate_prompt(text),
         max_tokens=1000,
         temperature=0
