@@ -1,6 +1,8 @@
+import os
+
 import openai
 
-openai.api_key = "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"
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 
 def generate_prompt(text):
