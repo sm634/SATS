@@ -1,4 +1,5 @@
 # SATS
 Source Agnostic Text Summerizer
 
-<img width="553" alt="image" src="https://user-images.githubusercontent.com/50050912/211866403-49b02a0a-8d8e-48d1-b9b0-4603964af0f3.png">
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/50050912/212035730-14192d3e-0c22-4070-88a8-72350b4837ab.png">
+
