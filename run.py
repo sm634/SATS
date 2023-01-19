@@ -4,8 +4,8 @@ import re
 from summarizer import summarize_text
 from utils.parser import TextPreprocessor
 
-input_path = 'data/input/'
-output_path = 'data/output/'
+input_path = 'extraction_layer/data/input/'
+output_path = 'extraction_layer/data/output/'
 
 input_files = os.listdir(input_path)
 
