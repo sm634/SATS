@@ -11,8 +11,8 @@ class TextPreprocessor:
     @staticmethod
     def standardize(text):
         """
-        Standardize text method: 1. Remove numbers, remove punctuation and lower case text.
-        :return: str, standardized text.
+        Standardize from_text method: 1. Remove numbers, remove punctuation and lower case from_text.
+        :return: str, standardized from_text.
         """
         text = ''.join([c for c in text if c not in punctuation])
         text = text.lower()
@@ -20,9 +20,9 @@ class TextPreprocessor:
 
     def tokenize(self, text, tokenizer='standard'):
         """
-        Tokenize text into list of words.
-        :param text: the input text to be tokenized.
-        :param tokenizer: the method of tokenizing the text or sentence. Current options: ['standard', 'nltk']
+        Tokenize from_text into list of words.
+        :param text: the input from_text to be tokenized.
+        :param tokenizer: the method of tokenizing the from_text or sentence. Current options: ['standard', 'nltk']
         :return: List of words.
         """
         text = self.standardize(text)
@@ -32,7 +32,7 @@ class TextPreprocessor:
             return word_tokenize(text)
 
     def batch_document(self, text, max_tokens=1000, save_batches=False, output_path='data/output/'):
-        """Break the text down into a suitable length to not exceed the openai API max token length."""
+        """Break the from_text down into a suitable length to not exceed the openai API max token length."""
         max_words_per_batch = int(max_tokens * 0.7)
         words = self.tokenize(text)
         n_batches = len(words) // max_words_per_batch
@@ -44,7 +44,7 @@ class TextPreprocessor:
                 batch_text = ' '.join(word for word in batch)
                 text_batches.append(batch_text)
                 if save_batches:
-                    """If save_batches option on then save the batches of text in the directory given in output_path"""
+                    """If save_batches option on then save the batches of from_text in the directory given in output_path"""
                     with open('data/input/batch/summary_' + str(datetime), 'w') as f:
                         f.write(batch_text)
 

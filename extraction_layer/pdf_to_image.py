@@ -31,10 +31,10 @@ def get_pdf_names(dir_path='data/input/'):
 def save_images(pages, doc_name, output_dir='data/output/'):
     """
     Take in pdf to image converted pages and save them in a designated directory.
-    :param pages: the input pdf pages converted to images to be saved
+    :param pages: the input pdf pages converted to from_images to be saved
     :param doc_name: name of the document to save as.
-    :param output_dir: the directory to save the output images.
-    :return: output images
+    :param output_dir: the directory to save the output from_images.
+    :return: output from_images
     """
     for i, page in enumerate(pages):
         image_name = f"{doc_name}_page_{i+1}.jpg"
@@ -52,5 +52,4 @@ for j, pdf in enumerate(pdfs_paths):
         save_images(pages=pages, doc_name=file_name)
     except pdf2image.exceptions.PDFPageCountError:
         pass
-
 
