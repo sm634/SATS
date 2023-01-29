@@ -38,3 +38,4 @@ dependencies:
       pytest==7.2.1
       Flask-WTF==1.1.1
       wtforms==3.0.1
+      flask_sqlalchemy==3.0.2

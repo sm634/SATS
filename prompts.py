@@ -14,7 +14,7 @@ def generate_prompt(text):
 
 def summarize_text(text):
     response = openai.Completion.create(
-        engine="from_text-davinci-003",
+        engine="text-davinci-003",
         prompt=generate_prompt(text),
         max_tokens=1000,
         temperature=0
