@@ -44,7 +44,8 @@ class TextPreprocessor:
                 batch_text = ' '.join(word for word in batch)
                 text_batches.append(batch_text)
                 if save_batches:
-                    """If save_batches option on then save the batches of from_text in the directory given in output_path"""
+                    """If save_batches option on then save the batches of from_text in the directory given in 
+                    output_path"""
                     with open('data/input/batch/summary_' + str(datetime), 'w') as f:
                         f.write(batch_text)
 
