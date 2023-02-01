@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Text Summarizer</title>
+  <link
+    rel="shortcut icon"
+    href="{{ url_for('static', filename='dsr_logo.png') }}"
+  />
+  <link rel="stylesheet" href="{{ url_for('static', filename='upload.css') }}" />
+  <style>
+      p.ex1 {
+        margin-left: 230px;
+
+      }
+  </style>
+</head>
+<body>
+    <img src="{{ url_for('static', filename='dsr_logo.png') }}" class="icon" />
+    <h2>Summarize File Text Content</h2>
+
+    <div>
+        <form method="POST" style="text-align:center" enctype="multipart/form-data">
+            {{ form.hidden_tag() }}
+            <p class="ex1">{{ form.file() }}</p>
+            {{ form.submit() }}
+        </form>
+    </div>
+
+
+    {% if result %}
+    <div class="result">{{ result }}</div>
+    {% endif %}
+</body>
