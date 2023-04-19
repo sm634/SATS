@@ -42,18 +42,19 @@ def save_images(pages, doc_name, output_dir='data/input/images/'):
         page.save(output_img, "JPEG")
 
 
-def save_images_from_file():
+def save_images_from_file(poppler_path='C:/Users/safmuk01/AppData/Local/anaconda3/pkgs/poppler-23.01.0/Library/bin'):
     pdfs_paths = get_pdf_file_paths()
     pdf_names = get_pdf_names()
     for j, pdf in enumerate(pdfs_paths):
         try:
-            pages = convert_from_path(pdf)
-            print(pages)
-            breakpoint()
+            print(f'currently processing pdf file {pdf}')
+            pages = convert_from_path(pdf,
+                                      poppler_path=poppler_path)
             file_name = pdf_names[j]
             save_images(pages=pages, doc_name=file_name)
             print(f"image {file_name} saved")
         except pdf2image.exceptions.PDFPageCountError:
+            print(f"Conversion Failed for {pdf}")
             pass
 
 
