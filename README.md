@@ -15,3 +15,5 @@ https://github.com/UB-Mannheim/tesseract/wiki
 
 You should take note of where the destination folder for the install location. It will likely look as follows: C:\Users\username\AppData\Local\Programs\Tesseract-OCR
 This will be required when runnin Tesseract-OCR through the python script.
+
+You will also need the Poppler library if you are converting your PDF to images. This can be installed in your conda environment using this website: [install poppler](https://anaconda.org/conda-forge/poppler)
