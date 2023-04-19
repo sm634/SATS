@@ -5,6 +5,7 @@ from prompts import summarize_text
 import openai
 from flask import Flask
 from werkzeug.utils import secure_filename
+from decouple import config
 import pdf2image.exceptions
 from pdf2image import convert_from_path
 
@@ -17,7 +18,7 @@ app.config['UPLOAD_FOLDER'] = 'static/files'
 app.config['IMAGE_FOLDER'] = app.config['UPLOAD_FOLDER'] + '/converted_images/'
 app.config['SUMMARIES_FOLDER'] = app.config['UPLOAD_FOLDER'] + '/summaries/'
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = config("OPENAI_API_KEY")
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\samukhia\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
 

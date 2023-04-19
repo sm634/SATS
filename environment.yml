@@ -11,3 +11,4 @@ dependencies:
       - openai==0.27.4
       - flask==2.2.3
       - pytesseract==0.3.10
+      - flask_wtf==1.1.1
