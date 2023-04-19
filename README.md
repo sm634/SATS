@@ -16,4 +16,4 @@ https://github.com/UB-Mannheim/tesseract/wiki
 You should take note of where the destination folder for the install location. It will likely look as follows: C:\Users\username\AppData\Local\Programs\Tesseract-OCR
 This will be required when runnin Tesseract-OCR through the python script.
 
-You will also need the Poppler library if you are converting your PDF to images. This can be installed here: [install poppler](https://github.com/oschwartz10612/poppler-windows/releases/r). Read the instructions to ensure you extract all of the documents in the correct pkgs or library folder.
+You will also need the Poppler library if you are converting your PDF to images. This can be installed here: [install poppler]([https://github.com/oschwartz10612/poppler-windows/releases/r](https://github.com/oschwartz10612/poppler-windows/releases/). Read the instructions to ensure you extract all of the documents in the correct pkgs or library folder.
