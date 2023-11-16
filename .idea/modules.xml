@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ED-A/MESIA/.idea/MESIA.iml" filepath="$PROJECT_DIR$/../ED-A/MESIA/.idea/MESIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ED-A/PRISM/.idea/PRISM.iml" filepath="$PROJECT_DIR$/../ED-A/PRISM/.idea/PRISM.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SATS.iml" filepath="$PROJECT_DIR$/.idea/SATS.iml" />
     </modules>
   </component>
